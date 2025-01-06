@@ -1,19 +1,40 @@
-# Mi-Client-Repos
 
-## About
+---
 
-Mi-Client-Repos is a collection of anime, manga, and novel repositories intended to enhance your Mi-Client application with various extensions. The goal is to provide a community-driven platform where users can share and collaborate on extensions that enhance the anime, manga, and novel experience.
+### **Complete Discord Embed**
 
-**Disclaimer**:  
-- This repository does **not host or distribute any illegal content**.  
-- We are not affiliated with any of the app or repository developers. This collection is for educational and personal use only.
-
-## Features
-- A collection of repositories for anime, manga, and novel extensions.
-- Regularly updated to ensure compatibility and support for various apps.
-- Community-driven, anyone can suggest or add repositories.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Mi-Client-Repos.git
+```json
+{
+  "embeds": [
+    {
+      "title": "Welcome to Mi-Client-Repos! 🌟",
+      "description": "A collection of **anime**, **manga**, and **novel** repositories to enhance your **Mi-Client** experience.",
+      "color": 5814783,
+      "fields": [
+        {
+          "name": "About",
+          "value": "Mi-Client-Repos is a community-driven project that shares repositories to extend the functionality of the Mi-Client application. Regular updates are provided for educational and personal use."
+        },
+        {
+          "name": "How to Use",
+          "value": "1. Clone the repository\n2. Follow the app setup instructions\n3. Contribute by opening a pull request to share repositories or improvements."
+        },
+        {
+          "name": "Disclaimer",
+          "value": "We **do not host** or distribute illegal content. This repository is not affiliated with the app or repository developers."
+        },
+        {
+          "name": "DMCA Compliance",
+          "value": "If any content infringes on your rights, please reach out to us via [GitHub Issues](https://github.com/yourusername/Mi-Client-Repos/issues) for review and removal."
+        },
+        {
+          "name": "Join Our Community",
+          "value": "Join the **Mi-Client-Repos** community on **[Discord](https://discord.gg/example-link)** to collaborate, share, and discuss."
+        }
+      ],
+      "footer": {
+        "text": "Let's build a better Mi-Client experience together! 💖"
+      }
+    }
+  ]
+}
