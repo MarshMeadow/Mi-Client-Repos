@@ -1,5 +1,8 @@
 # Mi-Client-Repos
 
+## 🚀 Join our Discord
+[Click here to join our Discord](https://discord.gg/3aqhzbb6u4)
+
 ## 🌟 About
 
 **Mi-Client-Repos** is a community-driven collection of repositories for **anime**, **manga**, and **novels**. This platform allows users to share and collaborate on extensions, providing a better experience for those who enjoy these forms of media.
