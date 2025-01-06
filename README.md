@@ -1,40 +1,21 @@
+# Mi-Client-Repos
 
----
+## 🌟 About
 
-### **Complete Discord Embed**
+**Mi-Client-Repos** is a collection of repositories for **anime**, **manga**, and **novels** designed to extend the functionality of your **Mi-Client** application. This community-driven platform allows users to share and collaborate on extensions, providing a better experience for those who enjoy anime, manga, and novels.
 
-```json
-{
-  "embeds": [
-    {
-      "title": "Welcome to Mi-Client-Repos! 🌟",
-      "description": "A collection of **anime**, **manga**, and **novel** repositories to enhance your **Mi-Client** experience.",
-      "color": 5814783,
-      "fields": [
-        {
-          "name": "About",
-          "value": "Mi-Client-Repos is a community-driven project that shares repositories to extend the functionality of the Mi-Client application. Regular updates are provided for educational and personal use."
-        },
-        {
-          "name": "How to Use",
-          "value": "1. Clone the repository\n2. Follow the app setup instructions\n3. Contribute by opening a pull request to share repositories or improvements."
-        },
-        {
-          "name": "Disclaimer",
-          "value": "We **do not host** or distribute illegal content. This repository is not affiliated with the app or repository developers."
-        },
-        {
-          "name": "DMCA Compliance",
-          "value": "If any content infringes on your rights, please reach out to us via [GitHub Issues](https://github.com/yourusername/Mi-Client-Repos/issues) for review and removal."
-        },
-        {
-          "name": "Join Our Community",
-          "value": "Join the **Mi-Client-Repos** community on **[Discord](https://discord.gg/example-link)** to collaborate, share, and discuss."
-        }
-      ],
-      "footer": {
-        "text": "Let's build a better Mi-Client experience together! 💖"
-      }
-    }
-  ]
-}
+> **Disclaimer**:  
+> - We **do not host or distribute any illegal content**.  
+> - This repository is **not affiliated** with the developers of the Mi-Client app or any associated repositories. This collection is for **educational** and **personal use only**.
+
+## 🛠️ Features
+
+- A variety of **anime**, **manga**, and **novel** repository extensions.
+- Regular updates to ensure **compatibility** with various apps.
+- Community-driven contributions that keep the repository growing and evolving.
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Mi-Client-Repos.git   
