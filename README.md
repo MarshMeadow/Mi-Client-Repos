@@ -18,4 +18,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Mi-Client-Repos.git
+   git clone https://raw.githubusercontent.com/keiyoushi/extensions/repo
