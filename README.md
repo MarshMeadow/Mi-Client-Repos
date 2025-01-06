@@ -6,7 +6,8 @@
 
 > **Disclaimer**:  
 > - We **do not host or distribute any illegal content**.  
-> - This repository is **not affiliated** with any specific app or associated repositories. This collection is for **educational** and **personal use only**.
+> - This repository is **not affiliated** with any specific app or associated repositories. This collection is for **educational** and **personal use only**.  
+> - Please **do not share or talk about us very much**.  
 
 ## 🛠️ Features
 
